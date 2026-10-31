@@ -15,7 +15,7 @@ The master turtle (`turtle1`) automatically detects spawned turtles, selects the
 
 ## System Architecture
 
-![System Architecture](media/System_Architecture.png)
+![System Architecture](media/SystemArchitecture.png)
 
 ## ROS 2 Communication Graph
 
