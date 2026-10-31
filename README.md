@@ -7,19 +7,19 @@ The master turtle (`turtle1`) automatically detects spawned turtles, selects the
 ---
 ## Project Demo
 
-![Turtlesim Demo](media/turtlesim_demo.png)
+![Turtlesim Demo](media/Demo.png)
 
 ## Autonomous Catch Workflow
 
-![Autonomous Catch Workflow](media/autonomous_catch_workflow.png)
+![Autonomous Catch Workflow](media/Workflow.png)
 
 ## System Architecture
 
-![System Architecture](media/system_architecture.png)
+![System Architecture](media/Architecture.png)
 
 ## ROS 2 Communication Graph
 
-![rqt_graph](media/rqt_graph.png)
+![rqt_graph](media/Rqt_Graph.png)
 
 ## Demo Behavior
 
