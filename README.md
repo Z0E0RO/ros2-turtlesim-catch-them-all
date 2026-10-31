@@ -5,6 +5,21 @@ A beginner ROS 2 project that demonstrates autonomous target selection, proporti
 The master turtle (`turtle1`) automatically detects spawned turtles, selects the closest target, navigates toward it, catches it, and then continues toward the next available turtle.
 
 ---
+## Project Demo
+
+![Turtlesim Demo](media/turtlesim_demo.png)
+
+## Autonomous Catch Workflow
+
+![Autonomous Catch Workflow](media/autonomous_catch_workflow.png)
+
+## System Architecture
+
+![System Architecture](media/system_architecture.png)
+
+## ROS 2 Communication Graph
+
+![rqt_graph](media/rqt_graph.png)
 
 ## Demo Behavior
 
